@@ -33,7 +33,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=D773EB5B-9A87-42A5-910E-6C8612201239
+VaultGUID=983F69F6-9BDE-436E-A172-BBA7FC672EBC
+ReleaseVaultName=GWEF
+ItemGUID=D773EB5B-9A87-42A5-910E-6C8612201239
 IncludeDesignInRelease=0
 
 [Preferences]
